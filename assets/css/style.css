@@ -1,0 +1,15 @@
+h6 {
+  text-decoration: underline;
+}
+
+#sidenav {
+  position: sticky;
+}
+
+body {
+  background-image: url(../Images/background.jpg);
+}
+
+p {
+  line-height: 150%;
+}
